@@ -1,6 +1,6 @@
 {
-    "horizontalFrames": 30,
-    "horizontalStartingIndex": 15,
+    "horizontalFrames": 60,
+    "horizontalStartingIndex": 30,
     "horizontalWrap": true,
     "name": "female",
     "type": "KeyShotXR",
